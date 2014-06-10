@@ -1,3 +1,3 @@
 TestRepo
 ========
-This is just Test Repository that has been created to get handson with GIT
+This is just Test Repository that has been created to get hands-on with GIT
